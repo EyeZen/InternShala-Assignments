@@ -1,0 +1,6 @@
+[submodule "HotelListing"]
+	path = HotelListing
+	url = https://github.com/EyeZen/HotelListing.git
+[submodule "SellerApp"]
+	path = SellerApp
+	url = https://github.com/EyeZen/SellerApp.git
